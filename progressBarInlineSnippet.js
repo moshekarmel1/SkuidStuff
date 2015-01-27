@@ -4,5 +4,5 @@
         $("#progressbar").progressbar({
           value: 37
         });
-	});
+    });
 })(skuid);
